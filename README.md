@@ -8,3 +8,4 @@ Created a c programming quiz web app using html, css and javascript
 ## Please checkout the link below to see the app 
 [https://kaushal90060.github.io/The-Quiz-app/](https://kaushal90060.github.io/The-Quiz-app/)
 # See sample pictures fot this projet
+![Screenshot (529)](https://user-images.githubusercontent.com/60690728/159164329-268958a7-a3f0-49a6-8e5d-f5e115e53a12.png)
