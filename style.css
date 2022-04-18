@@ -216,3 +216,105 @@ a {
   font-size: 16px;
   margin-top: 10px;
 }
+
+
+@media only screen and (max-width: 600px) {
+  body {
+    background-color: #33ff00;
+    min-height: auto;
+  }
+  .imgLogo {
+    width: 35px;
+    height: 35px;
+    padding-left: 15px;
+  }
+  .header {
+    height: 40px;
+  }
+  .cQuiz {
+    font-size: 18px;
+  }
+  .timer {
+    font-size: 8px;
+  }
+  .finishBtn {
+    width: 50px;
+    height: 25px;
+    font-size: 12px;
+    padding: 2px;
+    margin-top: 4px;
+    margin-left: 5px;
+    border-radius: 10px;
+  }
+  .Question_btn {
+    width: 80%;
+  }
+  .btn {
+    width: 25px;
+    height: 25px;
+    font-size: 15px;
+    margin: 0px;
+  }
+  .instruction {
+    width: 80%;
+    font-weight: normal;
+    font-size: 10px;
+  }
+  .Question_container {
+    margin-top: 8px;
+    padding: 5px;
+    width: 70%;
+  }
+  .Questions {
+    font-size: 18px;
+  }
+  .label {
+    font-size: 17px;
+    height: auto;
+    margin: 4px;
+    padding: 2px;
+    padding-right: 5px;
+  }
+  .ansPos {
+    margin-top: 12px;
+    padding: 5px;
+    width: 80%;
+    grid-template-columns: 0.2fr 4fr 0.2fr;
+  }
+  .clear {
+    width: 70px;
+    height: 20px;
+    font-size: 10px;
+    font-weight: bold;
+  }
+  .message {
+    margin-right: 2px;
+    font-size: 10px;
+  }
+  .AnsSubmit {
+    width: 70px;
+    height: 20px;
+    font-size: 15px;
+    border-radius: 6px;
+  }
+  .BtnNavigate {
+    width: 80%;
+  }
+  .navigator_btn {
+    width: 75px;
+    height: 25px;
+    font-size: 15px;
+  }
+
+  .FinalScore {
+    width: auto;
+    font-size: 25px;
+    padding: 6px;
+  }
+  .ReTest {
+    font-size: 18px;
+    width: 140px;
+    height: 30px;
+  }
+}
+
