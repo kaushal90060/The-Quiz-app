@@ -64,6 +64,7 @@ body {
   display: block;
   overflow: auto;
   white-space: nowrap;
+  border-radius:35px;
 }
 .btn {
   border-radius: 60px 60px;
